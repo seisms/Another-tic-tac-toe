@@ -16,5 +16,5 @@ Simple C program to play tic-tac-toe on the terminal. Nothing too fancy as it wa
 
 # Build and play
 - Clone the repository and run ``make``.
-- Run ``./tct`` on the cloned directory.
+- Run ``./atct`` on the cloned directory.
 - Have fun!
